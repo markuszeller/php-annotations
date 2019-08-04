@@ -1,22 +1,22 @@
-#php-annotations
+# php-annotations
 This class helps reading annotations.
 
 ![PHP from Packagist](https://img.shields.io/packagist/php-v/markuszeller/php-annotations/v1.0.0.svg)
 ![Install with Composer)](https://img.shields.io/badge/composer-markuszeller%2Fphp--annotations-blue.svg)
 
-##Features
+## Features
 
 - reads from a string
 - reads from a file
 - supports multiline annotation values
 - auto trims values
 
-##Note
+## Note
 Reads only annotations from DocComments included in `/** [...] */`.
 
 Look into that **double asterisk**.
 
-##Usage
+## Usage
 
 Initialise an Annotation object
 
