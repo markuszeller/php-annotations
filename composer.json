@@ -1,0 +1,19 @@
+{
+  "name": "markuszeller/php-annotations",
+  "description": "Simple tool for parsing annotations",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "homepage": "https://github.com/markuszeller/php-annotations",
+  "authors": [
+    {
+      "name": "Markus Zeller",
+      "email": "git@markuszeller.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": { "markuszeller\\":  "src/" }
+  },
+  "require": {
+    "php": ">=7.1"
+  }
+}
